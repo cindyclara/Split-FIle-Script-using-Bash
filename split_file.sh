@@ -1,10 +1,10 @@
 #!/bin/bash
 
 ###=============================================================================================###
-### Split 1 txt file into several files by number of line/number of file 	                    ###
-###	                                    								                        ###
-###	Notes			:					                                                        ###
-###	$1 = required file location 					                                            ###
+### Split 1 txt file into several files by number of line/number of file 	                      ###
+###	                                    								                                        ###
+###	Notes			:					                                                                        ###
+###	$1 = required file location 					                                                      ###
 ###	$2 = file name.txt                                                                          ###
 ###	$3 = split method (by number of file/line) <e.g: file>                                      ###
 ###	$4 = number of split file/line                                                              ###
